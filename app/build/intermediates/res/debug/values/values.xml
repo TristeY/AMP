@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/G:/StudioProjects/AMP/app/src/main/res/values/strings.xml -->
-    <eat-comment/>
-    <string name="app_name">AMPclient</string>
-    <string name="hello">欢迎使用AMP</string>
-    <string name="settings">Settings</string>
-</resources>
