@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\StudioProjects\AMP\app\libs\asmack.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe03343aa1bcebe304b71c2c4ca64e447b86d565">
+        <dex dex="G:\StudioProjects\AMP\app\build\intermediates\pre-dexed\debug\asmack-3a59b8d39ec71f5abb8ff4a09f44e4f2f2c7e71b.jar" />
+    </item>
+
+</items>
